@@ -22,7 +22,7 @@ class PISKO{
     public function tampilkanData(){
         echo "NO.   : " . $this->id . "<br>";
         echo "Nama  : " . $this->nama . "<br>";
-        echo "Tanggal Lahir: " . $this->tglLahir . "<br>";
+        echo "Tanggal Lahir: " . $this->tglLahcodir . "<br>";
         echo "Kampus: " . $this->kampus . "<br>";
         echo "Jurusan: " . $this->jurusan . "<br>";
         echo "foto: " . $this->foto . "<br>";
